@@ -1,0 +1,13 @@
+1. whoami: Displays current username
+2. hostname: Displays system hostname
+3. pwd (present working directory): Displays the current working directory.
+
+4. ls: List all the files and directories.
+     ls -l : Displays detailed file information.
+     ls -lt: Lists files by modification time.
+     ls -a : Displays hidden files.
+     ls -lr :
+
+5. mkdir : Creates directory
+6. mkdir -p: Creates nested directories
+7. rmdir: Removes empty directory
