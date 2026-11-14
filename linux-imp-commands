@@ -6,8 +6,18 @@
      ls -l : Displays detailed file information.
      ls -lt: Lists files by modification time.
      ls -a : Displays hidden files.
-     ls -lr :
+     ls -lr: Lists files in reverse order
+
 
 5. mkdir : Creates directory
-6. mkdir -p: Creates nested directories
+6. mkdir -p : Creates nested directories
 7. rmdir: Removes empty directory
+8. cd:   Changes directory 	         -- cd /home
+9. cd .. : Moves to parent directory     -- cd ..
+
+10. touch: Creates an empty file
+11. cat: Displays file content
+12. more: Views file content page by page
+13. less: Views file page by page
+14. head: Displays first 10 lines
+15. tail: Displays last 10 lines
