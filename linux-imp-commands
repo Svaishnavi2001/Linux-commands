@@ -25,3 +25,6 @@
 18. rm: Removes files
 19. rm -r: Removes directories recursively
 20. file: Identifies file type
+21. echo: Prints or writes text
+22. grep: Searches for text
+23. find: Searches for files
