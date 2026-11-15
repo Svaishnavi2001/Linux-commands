@@ -28,3 +28,8 @@
 21. echo: Prints or writes text
 22. grep: Searches for text
 23. find: Searches for files
+24. wc -l: Counts lines
+25. wc -w: Counts words
+26. wc -c: Counts bytes
+27. sort: Sorts lines
+28. uniq: Removes adjacent duplicate lines
