@@ -45,3 +45,6 @@
 37. passwd: Changes user password
 38. usermod:  Modifies user account
 39. groupadd: Creates a group
+40. groups: Displays group membership
+41. userdel: Deletes a user
+42. groupdel: Deletes a group
