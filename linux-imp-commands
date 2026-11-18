@@ -3,33 +3,45 @@
 3. pwd (present working directory): Displays the current working directory.
 
 4. ls: List all the files and directories.
-     ls -l : Displays detailed file information.
-     ls -lt: Lists files by modification time.
-     ls -a : Displays hidden files.
-     ls -lr: 
-
+      ls -l : Displays detailed file information.
+      ls -lt: Lists files by modification time.
+      ls -a : Displays hidden files.
+      ls -lr: list files and directories in reverse order.
 5. mkdir : Creates directory
 6. mkdir -p : Creates nested directories
 7. rmdir: Removes empty directory
-8. cd:   Changes directory 	         -- cd /home
-9. cd .. : Moves to parent directory     -- cd ..
+8. cd:   Changes directory 	        
+9. cd .. : Moves to parent directory     
+10 tree: Displays directory structure
 
-10. touch: Creates an empty file
-11. cat: Displays file content
-12. more: Views file content page by page
-13. less: Views file page by page
-14. head: Displays first 10 lines
-15. tail: Displays last 10 lines
-16. cp:   Copies files
-17. mv: Moves or renames files
-18. rm: Removes files
-19. rm -r: Removes directories recursively
-20. file: Identifies file type
-21. echo: Prints or writes text
-22. grep: Searches for text
-23. find: Searches for files
-24. wc -l: Counts lines
-25. wc -w: Counts words
-26. wc -c: Counts bytes
-27. sort: Sorts lines
-28. uniq: Removes adjacent duplicate lines
+11. touch: Creates an empty file
+12. cat: Displays file content
+13. more: Views file content page by page
+14. less: Views file page by page
+15. head: Displays first 10 lines
+16. tail: Displays last 10 lines
+17. cp:   Copies files
+18. mv: Moves or renames files
+19. rm: Removes files
+20. rm -r: Removes directories recursively
+21. file: Identifies file type
+
+22. echo: Prints or writes text
+23. grep: Searches for text/ Pattern
+24. find: Searches for files
+25. wc -l: Counts lines
+26. wc -w: Counts words
+27. wc -m: Counts the characters
+28. wc -c: Counts bytes
+29. sort: Sorts lines of a file
+30. uniq: Removes adjacent duplicate lines
+31. cut: Extracts columns or fields
+32. awk: Processes text and columns
+33. sed: Searches and replaces text
+
+34. who: Shows logged-in users	
+35. id: Displays user and group IDs
+36. adduser: Creates a user interactively (Ubuntu)
+37. passwd: Changes user password
+38. usermod:  Modifies user account
+39. groupadd: Creates a group
